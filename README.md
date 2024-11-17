@@ -30,7 +30,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 4.Instantiate the RippleCounter module. 5.Conduct functional testing by displaying the count at each clock cycle for 16 cycles.
 
 **PROGRAM**
-
+```
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
  Developed by: PREETHI A K
@@ -93,6 +93,7 @@ initial begin
 end
 
 endmodule
+```
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 ![image](https://github.com/user-attachments/assets/a23ecdc4-09c7-426a-a1b2-79f8e8144377)
